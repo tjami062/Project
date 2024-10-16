@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Lab4</string>
+    <string name="hello">"Hello! \nPlease sign in"</string>
+    <string name="signInButton">"Sign In"</string>
+    <string name="signInButtonAccount">"Create an account"</string>
+    <string name="signInNoAccount">"Don't have an account?"</string>
+    <string name="signInUname">"Username"</string>
+    <string name="signInPassword">"Password"</string>
+    <string name="register">"Register"</string>
+    <string name="registerName">"Full Name"</string>
+    <string name="registerEmail">"Email Address"</string>
+    <string name="registerPhone">"Phone Number"</string>
+    <string name="registerPassword">"Password"</string>
+    <string name="registerLessor">"Register As Lessor"</string>
+    <string name="registerRenter">"Register As Renter"</string>
+    <string name="registerCreate">"Create Account"</string>
+    <string name="registerUsername">"Username"</string>
+    <string name="welcomeText">"Welcome!"</string>
+    <string name="welcomeSignOut">"Sign out"</string>
+    <string name="adminWelcome">"Welcome! \n You are the admin!"</string>
+
+</resources>
